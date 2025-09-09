@@ -28,7 +28,7 @@ I am a 3rd year student at De La Salle University-Dasmariñas taking Bachelor of
 #
 
 <h3 align="left">📊 Stats</h3>
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewryansab05&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewryansab05)](https://github.com/matthewryansab05/github-readme-stats)
 
 #
 
