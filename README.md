@@ -27,12 +27,6 @@ I am a 3rd year student at De La Salle University-Dasmariñas taking Bachelor of
 
 #
 
-<h3 align="left">📊 Stats</h3>
-
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewryansab05&show_icons=true&theme=gruvbox)
-
-#
-
 <details>
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   Ever since I was a kid, there's this part of me that has always loved computers and wondered how they function and what it can do. I guess my father also has a part on this since he used to own 2 computer shops in which i used to go always. Few years have passed and now im in college, taking the course I have always wanted, is now learning a lot when it comes to programming and other IT related stuff that I never dreamt of. My first programming language is Java then proceeded to learn Python, C# dot net, and now were about to learn the Laravel framework. I know that those will not be enough for the future but I know to myself that Im slowly making progress and I hope it remains that way. 
